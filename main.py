@@ -1,3 +1,5 @@
+def main():
+    sam()
 
 def sam():
     print("""
@@ -19,10 +21,6 @@ def sam():
         trevor()
     else:
         print("Bad answer!")
-
-def main():
-    sam()
-
 
 def charles():
     print("""
