@@ -80,4 +80,4 @@ def todd():
             THE END.
         """)
 
-main()
+sam()
