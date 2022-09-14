@@ -70,15 +70,12 @@ def trevor()
 
 def todd():
 
+    print("""
+            You prepare to ambush the creatures and manage to get your arms around the neck of the goblin.
+            You failed to realize that these cave creatures are armed and soon meet a bloody death at the
+            hand of the hobbit and his knife.
 
-    choice = int(input("Type a number:"))
-
-    if choice == 1:
-        #Ending 1
-    elif choice == 2:
-        #Ending 2
-    else:
-        print("Bad answer!")
-
+            THE END.
+        """)
 
 main()
