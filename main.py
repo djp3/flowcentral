@@ -35,10 +35,8 @@ def charles():
 
     if choice == 1:
         nancy()
-
     elif choice == 2:
         valentina()
-        
     else:
         print("Bad answer!")
 
@@ -56,7 +54,6 @@ def trevor():
             """)
     choice = int(input("Type a number! "))
 
-
     if choice == 1:
         todd()
     elif choice == 2:
@@ -64,17 +61,13 @@ def trevor():
     else:
         print("Bad answer!")
 
-        
-
 def nancy():
     print("""
             You are brave and decide to face the noise in the basement. You go
             down the steps and find...several people playing dice. You join them!
             """)
-        
 
 def todd():
-
     print("""
             You prepare to ambush the creatures and manage to get your arms around the neck of the goblin.
             You failed to realize that these cave creatures are armed and soon meet a bloody death at the
@@ -82,7 +75,6 @@ def todd():
 
             THE END.
         """)
-
 
 def valentina():
     print(
@@ -92,6 +84,7 @@ def valentina():
         After a sigh of relief, you realize that you are very hugry. A perfect time for a nice picnic.
         """)
 
+def ethan():
+    print()
 
-def main():
-    sam()
+sam()
