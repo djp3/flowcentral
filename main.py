@@ -67,4 +67,18 @@ def trevor()
     else:
         print("Bad answer!")
         
+
+def todd():
+
+
+    choice = int(input("Type a number:"))
+
+    if choice == 1:
+        #Ending 1
+    elif choice == 2:
+        #Ending 2
+    else:
+        print("Bad answer!")
+
+
 main()
