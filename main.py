@@ -67,4 +67,10 @@ def trevor()
     else:
         print("Bad answer!")
         
+def nancy()
+    print("""
+            You are brave and decide to face the noise in the basement. You go
+            down the steps and find...several people playing dice. You join them!
+            """)
+        
 main()
