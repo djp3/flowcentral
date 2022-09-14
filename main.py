@@ -56,7 +56,7 @@ def trevor():
             """)
     choice = int(input("Type a number! "))
 
-<<<<<<< HEAD
+
     if choice == 1:
         todd()
     elif choice == 2:
@@ -64,17 +64,9 @@ def trevor():
     else:
         print("Bad answer!")
 
-def nancy():
-
-def valentina():
-
-def ethan():
-
-def main():
-    sam()
         
 
-def nancy()
+def nancy():
     print("""
             You are brave and decide to face the noise in the basement. You go
             down the steps and find...several people playing dice. You join them!
@@ -101,4 +93,5 @@ def valentina():
         """)
 
 
-main()
+def main():
+    sam()
