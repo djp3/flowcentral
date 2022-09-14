@@ -1,5 +1,3 @@
-def main():
-    sam()
 
 def sam():
     print("""
@@ -64,6 +62,23 @@ def trevor():
         ethan()
     else:
         print("Bad answer!")
+
+def nancy():
+
+def valentina():
+
+def todd():
+
+def ethan():
+
+def main():
+    sam()
+        
+def nancy()
+    print("""
+            You are brave and decide to face the noise in the basement. You go
+            down the steps and find...several people playing dice. You join them!
+            """)
         
 
 def todd():
