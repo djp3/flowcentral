@@ -1,7 +1,6 @@
 def main():
     sam()
 
-
 def sam():
     print("""
             You're walking in a deep, dark forest. You find a ladder hanging from a tree,
@@ -22,7 +21,6 @@ def sam():
         trevor()
     else:
         print("Bad answer!")
-
 
 def charles():
     print("""
@@ -46,7 +44,7 @@ def charles():
     else:
         print("Bad answer!")
 
-def trevor()
+def trevor():
     print("""
             You enter the cave. You valiantly ignite your torch, but you notice it will soon fade.
             You gaze into the narrowing distant abyss. Behind a series of mossy stalagtites, there
