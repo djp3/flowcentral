@@ -24,4 +24,23 @@ def sam():
         print("Bad answer!")
 
 
+def charles():
+    print("""
+            You climb the ladder and find yourself holding a wrench to fix the pipe that renders air to the house.
+            As you try to fix the pipe, you hear a loud noise coming from the basement. 
+
+            Type 1 to go to the basement:
+
+            Type 2 to go back to the ladder:
+
+        """)
+
+    choice = int(input("Type a number! "))
+
+    if choice == 1:
+        nancy()
+
+    elif choice == 2:
+        valentina()
+
 main()
