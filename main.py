@@ -56,6 +56,7 @@ def trevor():
             """)
     choice = int(input("Type a number! "))
 
+<<<<<<< HEAD
     if choice == 1:
         todd()
     elif choice == 2:
@@ -72,6 +73,7 @@ def ethan():
 def main():
     sam()
         
+<<<<<<< HEAD
 def nancy()
     print("""
             You are brave and decide to face the noise in the basement. You go
@@ -89,4 +91,16 @@ def todd():
             THE END.
         """)
 
+=======
+=======
+def valentina():
+    print(
+        """
+        Wow! Now you have a great view of your house! 
+
+        After a sigh of relief, you realize that you are very hugry. A perfect time for a nice picnic.
+        """)
+
+>>>>>>> end of story node valentina
+>>>>>>> end of story node valentina
 main()
