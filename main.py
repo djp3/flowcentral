@@ -44,7 +44,7 @@ def charles():
     else:
         print("Bad answer!")
 
-def trevor()
+def trevor():
     print("""
             You enter the cave. You valiantly ignite your torch, but you notice it will soon fade.
             You gaze into the narrowing distant abyss. Behind a series of mossy stalagtites, there
