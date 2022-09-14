@@ -1,5 +1,3 @@
-def main():
-    sam()
 
 def sam():
     print("""
@@ -64,6 +62,17 @@ def trevor():
         ethan()
     else:
         print("Bad answer!")
+
+def nancy():
+
+def valentina():
+
+def todd():
+
+def ethan():
+
+def main():
+    sam()
         
 def nancy()
     print("""
