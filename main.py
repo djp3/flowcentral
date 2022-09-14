@@ -67,8 +67,6 @@ def nancy():
 
 def valentina():
 
-def todd():
-
 def ethan():
 
 def main():
