@@ -46,7 +46,7 @@ def charles():
     else:
         print("Bad answer!")
 
-def trevor()
+def trevor():
     print("""
             You enter the cave. You valiantly ignite your torch, but you notice it will soon fade.
             You gaze into the narrowing distant abyss. Behind a series of mossy stalagtites, there
@@ -66,5 +66,16 @@ def trevor()
         ethan()
     else:
         print("Bad answer!")
+
+def ethan():
+    print("""
+            You meekly walk up to the hobbit and his curious looking friend. 
+            They invite you over and you gladly accept. 
+            Luckily, they have some potatoes, boiled, mashed, and stuck in a stew with a nice definitely dead rabbit. 
+            As you were sharing this lovely meal with a couple lads a newsrunner runs by and delivers the news of
+            the destruction of the one ring. You all celebrate together and feast late into the night. Each one 
+            dreaming and reflecting on the wonderful company of two complete strangers. None of them ever forgot that
+            night and they told the story to their children for years to come. :)
+            """)
         
 main()
