@@ -90,7 +90,9 @@ def valentina():
         """
         Wow! Now you have a great view of your house! 
 
-        After a sigh of relief, you realize that you are very hugry. A perfect time for a nice picnic.
+        After a sigh of relief, you notice a deep pool of water nearby.
+        You want to jump in and have a nice swim, but you can't decide whether to go all in or not.
+        
         """)
 
 def ethan():
