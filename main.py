@@ -60,24 +60,21 @@ def trevor():
         ethan()
     else:
         print("Bad answer!")
-
-def ethan():
-    print("""
-            You meekly walk up to the hobbit and his curious looking friend. 
-            They invite you over and you gladly accept. 
-            Luckily, they have some potatoes, boiled, mashed, and stuck in a stew with a nice definitely dead rabbit. 
-            As you were sharing this lovely meal with a couple lads a newsrunner runs by and delivers the news of
-            the destruction of the one ring. You all celebrate together and feast late into the night. Each one 
-            dreaming and reflecting on the wonderful company of two complete strangers. None of them ever forgot that
-            night and they told the story to their children for years to come. :)
-            """)
         
-main()
 def nancy():
     print("""
             You are brave and decide to face the noise in the basement. You go
             down the steps and find...several people playing dice. You join them!
             """)
+    print("""
+            You think you have a good roll do you go all in or do you check…
+            Press 100 for all in or 0 to check.
+            """)
+    choice = int(input("Press 100 to go all in or 0 to check: "))
+    if choice == 100:
+        charles2()
+    else:
+        trevor2()
 
 def todd():
     print("""
@@ -121,4 +118,11 @@ def sam2():
         THE END.
          """)
         
+def charles2():
+    print(
+        """
+            You went all in and lost. You are now broke and have to go back to work as a professional whistler.
+            THE END.
+        """
+    )
 sam()
