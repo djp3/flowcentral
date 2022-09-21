@@ -103,11 +103,19 @@ def ethan():
             You meekly walk up to the hobbit and his curious looking friend. 
             They invite you over and you gladly accept. 
             Luckily, they have some potatoes, boiled, mashed, and stuck in a stew with a nice definitely dead rabbit. 
-            As you were sharing this lovely meal with a couple lads a newsrunner runs by and delivers the news of
-            the destruction of the one ring. You all celebrate together and feast late into the night. Each one 
-            dreaming and reflecting on the wonderful company of two complete strangers. None of them ever forgot that
-            night and they told the story to their children for years to come. :)
+            As you were sharing this lovely meal, a necromancer finds you and gives you a choice:
+            
+            1. Die and go to heaven
+            2. Serve him for eternity
             """)
+    choice = int(input("Type a number! "))
+
+    if choice == 1:
+        sam2()
+    elif choice == 2:
+        don2()
+    else:
+        print("Bad answer!")
 
 def sam2():
     print("""
