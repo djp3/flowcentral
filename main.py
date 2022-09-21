@@ -95,6 +95,8 @@ def valentina():
         
         """)
 
+    trevor2()
+
 def ethan():
     print("""
             You meekly walk up to the hobbit and his curious looking friend. 
