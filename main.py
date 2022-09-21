@@ -110,7 +110,15 @@ def ethan():
 
 def sam2():
     print("""
-         Something.
+         You approach the pearly gates and find a deli-style "Please take a number" gadget.
+
+        ------------
+        |  7.8E198 |
+        ------------
+        
+        This is going to be a while.
+
+        THE END.
          """)
         
 sam()
