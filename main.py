@@ -85,8 +85,9 @@ def todd():
             You failed to realize that these cave creatures are armed and soon meet a bloody death at the
             hand of the hobbit and his knife.
 
-            THE END.
+            You are now in The Afterlife.
         """)
+    sam2()
 
 def valentina():
     print(
@@ -106,5 +107,10 @@ def ethan():
             dreaming and reflecting on the wonderful company of two complete strangers. None of them ever forgot that
             night and they told the story to their children for years to come. :)
             """)
+
+def sam2():
+    print("""
+         Something.
+         """)
         
 sam()
