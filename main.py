@@ -66,6 +66,15 @@ def nancy():
             You are brave and decide to face the noise in the basement. You go
             down the steps and find...several people playing dice. You join them!
             """)
+    print("""
+            You think you have a good roll do you go all in or do you check…
+            Press 100 for all in or 0 to check.
+            """)
+    choice = int(input("Press 100 to go all in or 0 to check: "))
+    if choice == 100:
+        charles2()
+    else:
+        trevor2()
 
 def todd():
     print("""
