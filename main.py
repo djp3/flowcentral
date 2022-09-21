@@ -105,9 +105,10 @@ def ethan():
             """)
         
 def charles2():
-    #TODO
-
-def trevor2():
-    #TODO
-
+    print(
+        """
+            You went all in and lost. You are now broke and have to go back to work as a professional whistler.
+            THE END.
+        """
+    )
 sam()
