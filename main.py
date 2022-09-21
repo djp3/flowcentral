@@ -108,6 +108,8 @@ def charles2():
     #TODO
 
 def trevor2():
-    #TODO
+    print("""
+            You don't go all in. Soon, a sudden wave of regret befalls. You get frustrated by your actions and give up. You seem to remember that all of your problems stem from that traumatic incident that occured in early childhood. Will life get better? You remember the Hebrew concept of Timshel. Do you have the ability to choose begin good or evil? Can you redeem yourself from the past sins of your heritage? Are you bound by the actions of your forefathers? Will you be like Sisyphus and roll your burdens up that mountain till your dying days? You stop overthinking and kick rocks.
+            """)
 
 sam()
